@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.odd {
+    background-color: #F1C5C9;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+#the-one {
+    color: blue;
+    font-size: 36px;
+}
+.font {
+    font-size: 24px;
+}
+#the-two {
+    background-color: #A1D1A3;
+    font-weight: bold;
+}
